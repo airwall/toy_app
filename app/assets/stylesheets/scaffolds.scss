@@ -18,6 +18,11 @@ pre {
   font-size: 11px;
 }
 
+textarea {
+    width: 600px;
+    height: 150px;
+}
+
 a {
   color: #000;
 
@@ -42,8 +47,7 @@ div {
 }
 
 .field_with_errors {
-  padding: 2px;
-  background-color: red;
+  color: #CC0000;
   display: table;
 }
 
